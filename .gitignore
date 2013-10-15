@@ -1,0 +1,4 @@
+config/database.yml
+config/ssh_hosts.yml
+db/
+log/

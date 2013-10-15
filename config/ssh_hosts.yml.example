@@ -1,0 +1,10 @@
+- 
+  name: host1
+  host: 192.168.0.1
+  user: guest
+  pass: pass
+-  
+  name: host2
+  host: 192.168.0.2
+  user: guest
+  pass: pass
