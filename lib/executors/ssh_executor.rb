@@ -15,6 +15,6 @@ class SshExecutor
   end 
   
   def name
-    @host
+    @name
   end
 end
